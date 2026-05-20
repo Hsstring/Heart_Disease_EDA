@@ -8,7 +8,7 @@
 
 ## 📌 Project Overview
 
-This repository contains a comprehensive **Exploratory Data Analysis (EDA)** of the **Heart Disease Dataset**, used for cardiovascular health research and analysis.  
+This repository contains a comprehensive **Exploratory Data Analysis** of the **Heart Disease Dataset**, used for cardiovascular health research and analysis.  
 The dataset includes demographic, clinical, and diagnostic measurements used to predict the presence of heart disease.
 
 This EDA explores feature distributions, correlations, relationships with the disease outcome, and patterns that may influence prediction models.
@@ -130,12 +130,3 @@ Junior Machine Learning Engineer & AI Researcher
 
 GitHub: https://github.com/Hsstring  
 Google Scholar: https://scholar.google.com/citations?user=8pbPFhUAAAAJ&hl=en  
-
----
-
-If you want, I can also create:
-- A full EDA notebook (Jupyter)
-- A PDF or DOCX version of this README
-- Machine learning models on top of the dataset
-
-Just tell me!
