@@ -115,7 +115,7 @@ These outliers may hold clinical importance and were not removed.
 
 ## 📈 Example Visualizations
 
-<img src="images/chol vs age .png" width="600"/>
+<img src="images/chol vs age .png"/>
 
 ---
 
