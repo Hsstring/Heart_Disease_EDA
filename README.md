@@ -1,7 +1,7 @@
 # Heart Disease EDA
 
 <p>
- <img src="Images/Coronary-heart-disease.jpg">
+ <img src="images/Coronary-heart-disease.jpg">
 </p>
 
 ---
@@ -115,10 +115,7 @@ These outliers may hold clinical importance and were not removed.
 
 ## 📈 Example Visualizations
 
-<p align="center">
-  <img src="Images/CP_vs_Target.png" width="600"/>
-  <img src="Images/Correlation_Heatmap.png" width="600"/>
-</p>
+<img src="images/chol vs age .png" width="600"/>
 
 ---
 
